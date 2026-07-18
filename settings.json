@@ -17,6 +17,13 @@
     "y": 100,
     "z": 0
   },
+  "smp-boot": {
+    "enabled": true,
+    "afk-timeout": 600000,
+    "boot-on-startup": true,
+    "keep-alive-interval": 300000,
+    "max-idle-time": 1800000
+  },
   "utils": {
     "auto-auth": {
       "enabled": true,
